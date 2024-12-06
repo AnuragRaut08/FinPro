@@ -1,4 +1,4 @@
-FinPro: Comprehensive Financial Management Application
+**FinPro: Comprehensive Financial Management Application**
 Overview
 FinPro is a robust cross-platform mobile application designed to empower users with seamless real-time financial tracking and analysis. Built using Flutter and Dart and powered by Firebase, the app combines personalized budgeting, expense tracking, and investment recommendations with secure authentication and advanced visualizations.
 
