@@ -32,7 +32,7 @@ Copy code
 flutter pub get
 Set up Firebase:
 
-Create a Firebase project in the Firebase Console.
+**Create a Firebase project in the Firebase Console.**
 Add your app (Android/iOS) and download the google-services.json (for Android) or GoogleService-Info.plist (for iOS).
 Place these files in the appropriate directories (android/app for Android, ios/Runner for iOS).
 Run the app:
